@@ -1,0 +1,51 @@
+{
+  "id": "1511230",
+  "name": "app_hlj",
+  "font_family": "iconfont",
+  "css_prefix_text": "iconfont-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8035678",
+      "name": "登录密码-01",
+      "font_class": "login-pwd",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "8758395",
+      "name": "底部栏_我的",
+      "font_class": "bar-user",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "8758398",
+      "name": "底部栏_首页",
+      "font_class": "bar-home",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "9133163",
+      "name": "底部栏-咨询",
+      "font_class": "bar-msg",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "10189264",
+      "name": "app底部栏-05",
+      "font_class": "bar-task",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "10392614",
+      "name": "登录",
+      "font_class": "login-user",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
